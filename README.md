@@ -24,9 +24,9 @@ Hello! I'm John Nicole, a passionate software developer with a love for creating
 
 ## 💼 Skills
 
-- **Programming Languages**: C#, Asp.Net Core MVC/Framework/WebAPI, ORACLE, MS SQL, VB.Net.
+- **Programming Languages**: C#, Asp.Net Core MVC/Framework/WebAPI/Blazor, ORACLE, MS SQL, VB.Net.
 - **Frameworks/Libraries**: Bootstrap5.
-- **Tools/Platforms**: Power Apps, Power Automate.
+- **Tools/Platforms**: Power Apps, Power Automate, PowerBI.
 
 ## 🏢 Experience
 
